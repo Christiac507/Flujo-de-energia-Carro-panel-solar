@@ -49,7 +49,9 @@ El panel entrega la energía por su salida USB. Pelé la punta de un cable USB t
 **Relación con el ecosistema:** en un ecosistema el Sol es la fuente de energía, las plantas (productores) la convierten en energía química y de ahí pasa a los consumidores. En cada nivel se pierde cerca del 90 % como calor (**ley del 10 %**). En el carro pasa algo parecido: el panel hace el papel del productor, los motores son como el consumidor y en cada paso se pierde energía. Por eso al final llega poca energía para mover el carro.
 
 ## Video del funcionamiento
-▶️ [Aquí está el link del video](https://youtube.com/shorts/hbnPiloya9I)
+### ▶️ [Aquí está el link del video (clic para verlo en YouTube)](https://youtube.com/shorts/hbnPiloya9I)
+
+[<img src="https://img.youtube.com/vi/hbnPiloya9I/hqdefault.jpg" width="360" alt="Ver video en YouTube">](https://youtube.com/shorts/hbnPiloya9I)
 
 El link también está guardado en [Video/enlace.txt](Video/enlace.txt).
 
