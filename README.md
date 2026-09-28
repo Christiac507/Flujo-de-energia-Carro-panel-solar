@@ -51,7 +51,7 @@ El panel entrega la energía por su salida USB. Pelé la punta de un cable USB t
 ## Video del funcionamiento
 [enlace.txt](Video/enlace.txt)
 
-[Ver video en YouTube](VIDEO_URL)
+[Ver video en YouTube](https://youtube.com/shorts/hbnPiloya9I)
 
 ## Evidencias de armado
 
